@@ -49,7 +49,7 @@ estimate annual childcare fees based on hourly rates
 
 ## Dependencies
 
-[Link to Dependencies](https://github.com/ThomasKillin/childcare-sydney/blob/main/dependencies.txt)
+[Link to Dependencies](https://github.com/ThomasKillin/childcare-sydney/blob/main/requirements.txt)
 <br/>
 <br/>
 
